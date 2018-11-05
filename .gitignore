@@ -1,0 +1,11 @@
+*.gem
+Gemfile.lock
+.bundle
+vendor
+*.iml
+.idea
+*.swp
+.DS_Store
+
+# rbenv
+.ruby-version
